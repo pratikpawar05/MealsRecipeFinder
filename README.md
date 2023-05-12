@@ -4,13 +4,13 @@
 
 ## Technology Stack:
 
-\- Vue
-\- Vuex (State Management)
-\- HTML
-\- CSS
-\- Javascript
+\- Vue  <br>
+\- Vuex (State Management)  <br>
+\- HTML  <br>
+\- CSS  <br>
+\- Javascript  <br>
 
-## Features :-
+## Features:
 - MealsRecipeFinder helps in finding recipes for veg and non-veg meals online.
 - It fetches 10 random meal recipes on every load.
 - It can retrieve recipes of meals by their name.
@@ -22,7 +22,7 @@ To be able to use this web app, it needs an active internet connection. Since, d
 
 ## See Live Demo
 
-### visit --> 
+### visit --> https://meals-recipe-finder.netlify.app/
 
 
 ## Recommended IDE Setup
