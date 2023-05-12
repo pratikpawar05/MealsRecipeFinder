@@ -1,6 +1,29 @@
-# Vue 3 + Vite
+# Meals Recipe Finder
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Description
+
+## Technology Stack:
+
+\- Vue
+\- Vuex (State Management)
+\- HTML
+\- CSS
+\- Javascript
+
+## Features :-
+- MealsRecipeFinder helps in finding recipes for veg and non-veg meals online.
+- It fetches 10 random meal recipes on every load.
+- It can retrieve recipes of meals by their name.
+- It can retrieve recipes of meals by their initial letter.
+- It can retrieve recipes of meals by their ingredients.
+
+## Usage:
+To be able to use this web app, it needs an active internet connection. Since, data is being fetched from the api -> https://www.themealdb.com/api.php
+
+## See Live Demo
+
+### visit --> 
+
 
 ## Recommended IDE Setup
 
